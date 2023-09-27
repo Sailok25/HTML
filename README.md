@@ -12,8 +12,7 @@
 
 
 ## Índice de EJERCICIOS
-Este repositorio contiene distintos ejemplos y ejercicios realizados a lo largo del curso 2023/24.
-
+Este repositorio contiene distintos ejercicios que hiré realizando para seguir practicando mis habilidades desde 0.
 - Ejercicio 01: [enlace](https://github.com/Sailok25/M04_HTML/blob/main/ejercicios/ejercicio1.html)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
