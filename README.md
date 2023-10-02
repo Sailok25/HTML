@@ -1,4 +1,3 @@
-# HTML
 <!-- LOGO PRESENTATION -->
 <section id= "top">
 <div align="center">
