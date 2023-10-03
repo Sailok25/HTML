@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejecrcicio 12</title>
+    <style>
+        table, tr, th, td {
+          border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+    <h1><u>Tablas 1</u></h1>
+    <h2>Enunciado</h2>
+    <p>Debes crear una página web que tenga el mismo aspecto que la siguiente imagen:</p>
+    <img src="img/tabla1.png" alt="resultado" style="border: 5px solid black" ; >
+    <p>Además, tienes que tener en cuenta los siguientes requisitos:</p>
+    <ul>
+        <li>El destino del enlace Índice de desempleo anual es la página web:
+            <a href="http://epp.eurostat.ec.europa.eu/tgm/table.do?tab=table&init=1&language=en&pcode=tsdec450&plugin=1">Enlace</a></li>
+    </ul>
+    <p><strong>Nota:</strong>en el código base que se te proporciona vas a encontrar una etiqueta nueva, la etiqueta <strong>"style"</strong>. Esta etiqueta permite introducir instrucciones de <strong>CSS (Cascading Style Sheets)</strong> en una página web. CSS se emplea para definir la presentación visual de una página web y se explica en la segunda parte de este curso. Las instrucciones que se han incluido tienen como objetivo que la tabla y las celdas de la tabla se muestren con un borde. Esto también se podría haber logrado con el atributo border de HTML, pero es mejor utilizar siempre CSS para todo lo relacionado con la presentación de una página web.</p>
+    <hr>
+<body>
+
+    <h2>El desempleo en España</h2>
+    <p>La siguiente tabla muestra la evolución del desempleo en España, comparado con la media de los 27 países de la Unión Europea, Grecia, que compite con España en ser el primero en esta vergonzosa competición y Estados Unidos y Japón, dos de las primeras economías mundiales.</p>
+
+    <table>
+        <tr>
+            <th>País</th>
+            <th>2000</th>
+            <th>2001</th>
+            <th>2002</th>
+            <th>2003</th>
+            <th>2004</th>
+            <th>2005</th>
+            <th>2006</th>
+            <th>2007</th>
+            <th>2008</th>
+            <th>2009</th>
+            <th>2010</th>
+            <th>2011</th>
+            <th>2012</th>
+            <th>2013</th>
+        </tr>
+        
+        <tr>
+            <th>UE (27 países)</th>
+            <th>8.9</th>
+            <th>8.7</th>
+            <th>9</th>
+            <th>9.1</th>
+            <th>9.3</th>
+            <th>9</th>
+            <th>8.2</th>
+            <th>7.2</th>
+            <th>7</th>
+            <th>9</th>
+            <th>9.6</th>
+            <th>9.6</th>
+            <th>10.4</th>
+            <th>10.8</th>
+        </tr>
+
+        <tr>
+            <th>España</th>
+            <th><strong>11.9</strong></th>
+            <th><strong>10.6</strong></th>
+            <th><strong>11.5</strong></th>
+            <th><strong>11.5</strong></th>
+            <th><strong>11</strong></th>
+            <th><strong>9.2</strong></th>
+            <th><strong>8.5</strong></th>
+            <th><strong>8.2</strong></th>
+            <th><strong>11.3</strong></th>
+            <th><strong>17.9</strong></th>
+            <th><strong>16.9</strong></th>
+            <th><strong>21.4</strong></th>
+            <th><strong>24.8</strong></th>
+            <th><strong>26.1</strong></th>
+        </tr>
+
+        <tr>
+            <th>Grecia</th>
+            <th>11.2</th>
+            <th>10.7</th>
+            <th>10.3</th>
+            <th>9.7</th>
+            <th>10.6</th>
+            <th>10</th>
+            <th>9</th>
+            <th>8.4</th>
+            <th>7.8</th>
+            <th>9.6</th>
+            <th>12.7</th>
+            <th>17.9</th>
+            <th>24.5</th>
+            <th>27.5</th>
+        </tr>
+
+
+        <tr>
+            <th>Estados Unidos</th>
+            <th>4</th>
+            <th>4.8</th>
+            <th>5.8</th>
+            <th>6</th>
+            <th>5.5</th>
+            <th>5.1</th>
+            <th>4.6</th>
+            <th>4.6</th>
+            <th>5.8</th>
+            <th>9.3</th>
+            <th>9.6</th>
+            <th>8.9</th>
+            <th>8.1</th>
+            <th>7.4</th>
+
+        </tr>
+
+        <tr>
+            <th>Japón</th>
+            <th>8.9</th>
+            <th>8.7</th>
+            <th>9</th>
+            <th>9.1</th>
+            <th>9.3</th>
+            <th>9</th>
+            <th>8.2</th>
+            <th>7.2</th>
+            <th>7</th>
+            <th>9</th>
+            <th>9.6</th>
+            <th>9.6</th>
+            <th>10.4</th>
+            <th>10.8</th>
+        </tr>   
+    </table>
+    <p>Fuente: <a href="http://epp.eurostat.ec.europa.eu/tgm/table.do?tab=table&init=1&language=en&pcode=tsdec450&plugin=1">Índice de desempleo anual, Eurostat</a></p>
+
+</body>
+</html>
+<!-- Fallos
+    Creo no haber cometido ninguno, pero recalco que el cagué al escribir SOLO 1 LETRA y me lío toda la tabla hasta el punto de volverme loca xd. Por suerte vi el fallo, envez de th puse tr al cerrar y eso generó que la tabla no funcionara. E aprendido a que hay que tener mucha vista porque un error es crucial.(Edit: me deje los <strong> de 1 fila bruh xd)-->
+</body>
+</html>
