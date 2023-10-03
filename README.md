@@ -38,7 +38,7 @@
 </br>
 
 ## Agradecimientos - ⚜️
-* Ejerciciois de referencia: [enlace](http://desarrolloweb.dlsi.ua.es/libros/html-css/ejercicios)
+* Ejercicios de referencia: [enlace](http://desarrolloweb.dlsi.ua.es/libros/html-css/ejercicios)
 * INS Alfons Costafreda: [enlace](https://www.insalfonscostafreda.cat/)
 * Font Space: [enlace](https://www.fontspace.com/)
 * W3Schools: [enlace](https://www.w3schools.com/)
