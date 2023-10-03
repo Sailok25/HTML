@@ -11,7 +11,7 @@
 </br>
 
 ## Acerca de este repositorio - 👀
-<p>Este repositorio contiene distintos ejercicios que realizo tanto a nivel personal como en clase mismo. Iré subiendo los resultados para ver como mejora/empeoran mis habilidades desde 0.</p>
+<p>Este repositorio contiene distintos ejercicios que realizo tanto a nivel personal como en clase mismo. Iré subiendo los resultados para ver como mejora/empeoran mis habilidades partiendo de un punto 0.</p>
 
 </br>
 
@@ -39,10 +39,10 @@
 </br>
 
 ## Agradecimientos - ⚜️
-* Web donde econtré los ejerciciois de referencia: [enlace](http://desarrolloweb.dlsi.ua.es/libros/html-css/ejercicios)
-* ChatGPT: [enlace](https://chat.openai.com)
+* Ejerciciois de referencia: [enlace](http://desarrolloweb.dlsi.ua.es/libros/html-css/ejercicios)
 * INS Alfons Costafreda: [enlace](https://www.insalfonscostafreda.cat/)
 * Font Space: [enlace](https://www.fontspace.com/)
 * W3Schools: [enlace](https://www.w3schools.com/)
+* ChatGPT: [enlace](https://chat.openai.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
