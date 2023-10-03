@@ -29,13 +29,12 @@
     * Enlaces: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio6.html)
     * Listas 01: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio7.html)
     * Listas 02: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio8.html)
-    * Tablas 01: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio9.html)
-    * Tablas 02: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio10.html)
+    * Formularios 01: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio9.html)
+    * Formularios 02: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio10.html)
+    * Formularios 03: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio11.html)
+    * Tablas 01: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio12.html)
+    * Tablas 02: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio13.html)
     * Tablas 03: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio14.html)
-    * Formularios 01: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio11.html)
-    * Formularios 02: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio12.html)
-    * Formularios 03: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio13.html)
-
 </br>
 
 ## Agradecimientos - ⚜️
