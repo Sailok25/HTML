@@ -16,11 +16,11 @@
 </br>
 
 ## Índice de contenidos - 📑
-1. EJEMPLOS + EJERCICIOS - Clase
+1. EJEMPLOS
     * Etiquetas Basicas: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejemplo1.html)
     * Etiqueta Tablas: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejemplo2.html)
       
-2. EJERCICIOS - Personal
+2. EJERCICIOS
     * Conceptos Basicos 01: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio1.html)
     * Conceptos Basicos 02: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio2.html)
     * Conceptos Basicos 03: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio3.html)
@@ -31,6 +31,7 @@
     * Listas 02: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio8.html)
     * Tablas 01: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio9.html)
     * Tablas 02: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio10.html)
+    * Tablas 03: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio14.html)
     * Formularios 01: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio11.html)
     * Formularios 02: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio12.html)
     * Formularios 03: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio13.html)
