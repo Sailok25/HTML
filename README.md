@@ -10,6 +10,8 @@
 </div>
 </br>
 
+## Acerca de este repositorio
+<p>Este repositorio contiene distintos ejercicios que realizo tanto a nivel personal como en clase mismo. Iré subiendo los resultados para ver como mejora/empeoran mis habilidades desde 0.</p>
 
 ## Índice 
 1. EJERCICIOS - Clase
