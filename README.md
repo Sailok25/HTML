@@ -13,9 +13,12 @@
 ## Acerca de este repositorio - 👀
 <p>Este repositorio contiene distintos ejercicios que realizo tanto a nivel personal como en clase mismo. Iré subiendo los resultados para ver como mejora/empeoran mis habilidades desde 0.</p>
 
+</br>
+
 ## Índice de contenidos - 📑
-1. EJERCICIOS - Clase
-    * Conceptos Basicos 01: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio1.html)
+1. EJEMPLOS + EJERCICIOS - Clase
+    * Etiquetas Basicas: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejemplo1.html)
+    * Etiqueta Tablas: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejemplo2.html)
       
 2. EJERCICIOS - Personal
     * Conceptos Basicos 01: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio1.html)
@@ -31,11 +34,14 @@
     * Formularios 01: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio11.html)
     * Formularios 02: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio12.html)
     * Formularios 03: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio13.html)
-      
-## Agradecimientos
+
+</br>
+
+## Agradecimientos - ⚜️
 * Web donde econtré los ejerciciois de referencia: [enlace](http://desarrolloweb.dlsi.ua.es/libros/html-css/ejercicios)
 * ChatGPT: [enlace](https://chat.openai.com)
 * INS Alfons Costafreda: [enlace](https://www.insalfonscostafreda.cat/)
 * Font Space: [enlace](https://www.fontspace.com/)
+* W3Schools: [enlace](https://www.w3schools.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
