@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formularis</title>
+</head>
+<body>
+    <form action="register.php" method="post">
+        <label for="nom">Nom:</label>
+        <input type="text" name="nom" id="nom" placeholder="Escriu el teu nom">
+        <!--aquesta opció s'utilitza per a escriure en el camp en forma de text-->
+        <br><br>
+
+        <label for="cognom">Cognom:</label>
+        <input type="text" name="cognom" id="cognom" placeholder="Escriu el teu cognom"> <!--aquesta opció s'utilitza per a escriure en el camp en forma de text-->
+        
+        <br><br>
+
+        <label for="password">Password:</label>
+        <input type="password" name="password" id="password"> 
+        <!--aquesta opció (type="password")s'utilitza per a que es marqui "en puntets" la contraseña -->
+        
+        <br><br>
+
+        <label for="color">Color:</label>
+        <input type="color" name="color" id="color"> 
+        <!--aquesta opció s'utilitza per a definir un color-->
+        
+        <br><br>
+
+        <label for="correu">Correu:</label>
+        <input type="email" name="correu" id="correu"> 
+        <!--aquesta opció s'utilitza per a validar molt minimament que has inserit un @. Aixó u detecta com a requisit minim-->
+        
+        <br><br>
+
+        <label for="edat">Edat:</label>
+        <input type="number" name="edat" id="edat" min="0" max="50"> 
+        <!--aquesta opció s'utilitza per a seleccionar una edat amb les "flechetes" o per a escriureu manual-->
+        <input type="range" name="edat" id="edat" min="0" max="50"> 
+        <!--aquest es com el tipus number sol que es pot moure amb una barra-->
+        
+        <br><br>
+
+        <h2>¿De quina provincia ets?</h2>
+        <input type="checkbox" name="ciutat1" id="ciutat1">
+        <label for="ciutat1"> Barcelona</label>
+        <br>
+        <input type="checkbox" name="ciutat2" id="ciutat2">
+        <label for="ciutat2"> Girona</label>
+        <br>
+        <input type="checkbox" name="ciutat3" id="ciutat3">
+        <label for="ciutat3"> Tarragona</label>
+        <br>
+        <input type="checkbox" name="ciutat4" id="ciutat4">
+        <label for="ciutat4"> Lleida</label> 
+        <!--aquesta opció s'utilitza per a crear una "caixeta multiselecciónable amb ticks"-->
+        
+        <br><br>
+
+        <h2>¿On vius hi ha platja?</h2>
+        <input type="radio" name="platja" id="platja1">
+        <label for="platja1"> Si</label>
+        <br>
+        <input type="radio" name="platja" id="platja2">
+        <label for="platja2"> No</label>
+        <!--aquesta opció s'utilitza per a crear un "cercle" on escullir UNA opció entre varies -->
+        <br><br>
+
+        <h2>Escull una marca a continuació:</h2>
+        <label for="cotxe">Quina marca t'agrada mes?</label>
+        <select name="cotxe" id="cotxe">
+            <option value="opel">Opel</option>
+            <option value="volkswagen">Volskwagen</option>
+            <option value="ssanyong">SsangYong</option>
+            <option value="mercedes-benz">Mercedes-Benz</option>
+            <option value="seat">Seat</option>
+            <option value="renault">Renault</option>
+        </select>
+        <!--aquesta opció s'utilitza per a crear una "caixeta" amb opcións seleccionables-->
+
+        <br><br>
+        <input type="submit" value="Enviar">
+    </form>
+</body>
+</html>
