@@ -11,7 +11,7 @@
 </br>
 
 ## Acerca de este repositorio - 👀
-<p>Este repositorio contiene distintos ejercicios que realizo tanto a nivel personal como en clase mismo. Iré subiendo los resultados para ver como mejora/empeoran mis habilidades partiendo de un punto 0.</p>
+<p>Este repositorio contiene distintos ejemplos y ejercicios que realizo tanto a nivel personal como en clase mismo. Iré subiendo los resultados para ver como mejora/empeoran mis habilidades partiendo de un punto 0.</p>
 
 </br>
 
