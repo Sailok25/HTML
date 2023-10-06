@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejecrcicio 15</title>
+</head>
+<body>
+    <h1><u>Formularios 4</u></h1>
+    <h2>Enunciado</h2>
+    <p>Debes crear una página web con registro de formulario que tenga el mismo aspecto que la siguiente imagen:</p>
+    <img src="img/formu4.png" alt="resultado" style="border: 5px solid black" ; >
+    <hr>
+    <h1>Novell Service Login</h1>
+    <form>
+        <table>
+            <tr>
+                <td><label for="username">Username:</label></td>
+                <td><input type="text" name="username" id="username"></td>
+            </tr>
+
+            <tr>
+                <td><label for="password">Password:</label></td>
+                <td><input type="password" name="password" id="password"></td>
+            </tr>
+
+            <tr>
+                <td><label for="city">City of <br>Employment:</label></td>
+                <td><input type="text" name="city" id="city"></td>
+            </tr>
+
+            <tr>
+                <td>Web server</td>
+                <td>  
+                    <select name="web" id="web">
+                    <option value="none">--Choose a server--</option>
+                    <option value="wampp">WAMPP</option>
+                    <option value="xampp">XAMPP</option>
+                    <option value="lampp">LAMPP</option>
+                    <option value="mampp">MAMPP</option>
+                    </select>              
+                </td>
+            </tr>
+
+            <tr>
+                <td><label for="role">Please specify <br>your role:</label></td>
+                <td>                
+                    <input type="radio" name="role" id="admin">
+                    <label for="admin">Admin</label>
+                    <br>
+                    <input type="radio" name="role" id="engineer">
+                    <label for="engineer">Engineer</label>
+                    <br>
+                    <input type="radio" name="role" id="manager">
+                    <label for="manager">Manager</label>
+                    <br>
+                    <input type="radio" name="role" id="guest">
+                    <label for="guest">Guest</label>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <label for="">Single Sign-on <br>to the following:</label>
+                </td>
+                <td>  
+                    <br>         
+                    <input type="checkbox" name="mail" id="mail">
+                    <label for="mail">Mail</label>
+                    <br>
+                    <input type="checkbox" name="payroll" id="payroll">
+                    <label for="payroll">Payroll</label>
+                    <br>
+                    <input type="checkbox" name="self" id="self">
+                    <label for="self">Self-Service</label>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    
+                    <input type="submit" value="Enviar"> 
+                    <input type="submit" value="Reset">
+                </td>
+
+            </tr>
+        </table>
+    </form>
+    <!-- Al inicio hize el ejercicio hice el formulario, pero desconocia que se realiza a base de tablas, por lo demas, creo que a ido bastante bien -->
+</body>
+</html>
