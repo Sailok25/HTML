@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejecrcicio 9</title>
+</head>
+<body>
+    <h1><u>Formularios 1</u></h1>
+    <h2>Enunciado</h2>
+    <p>Crea una página web que contenga un formulario con los siguientes campos de información:</p>
+    
+    <ul>
+        <li>El nombre, con un control de tipo texto.</li>
+        <li>Los apellidos, con un control de tipo texto.</li>
+        <li>El sexo, con dos opciones excluyentes hombre o mujer.</li>
+        <li>El correo electrónico, con un control de tipo texto.</li>
+        <li>Una casilla de verificación con el texto "Deseo recibir información sobre novedades y ofertas".</li>
+        <li>Una casilla de verificación con el texto "Declaro haber leido y aceptar las condiciones generales del programa y la normativa sobre protección de datos".</li>
+        <li>Un botón de envío.</li>
+    </ul>
+
+    <p>Además, tienes que tener en cuenta los siguientes requisitos:</p>
+
+    <ul>
+        <li>El título de la página debe ser Formulario de registro - Mi web.</li>  <!--Yo pondré Ejercicio 9 para seguir como los archivos anteriores-->
+        <li>El método de envío del formulario debe ser GET.</li>
+        <li>El destino del envío del formulario debe ser "".</li>
+        <li>La longitud máxima de entrada de datos de los controles para el nombre y los apellidos debe ser 50 caracteres.</li>
+        <li>La casilla de verificación con el texto "Deseo recibir información sobre novedades y ofertas" debe estar activada por defecto.</li>
+    </ul>
+
+    <p>Debes crear una página web que tenga el mismo aspecto que la siguiente imagen:</p>
+    <img src="img/formu1.png" alt="resultado" style="border: 5px solid black" ; >
+
+    <h2>Formulario de registro</h2>
+    <form action="" method="get">
+        <label for="nombre">Nombre:</label>
+        <input type="text" name="nombre" id="nombre" maxlength="50">
+
+        <br><br>
+
+        <label for="apellidos">Apellidos:</label>
+        <input type="text" name="apellidos" id="apellidos" maxlength="50">
+
+        <br><br>
+
+        <label for="sexo">Sexo:</label>
+        <input type="radio" name="hombre" id="hombre">
+        <label for="hombre">hombre</label>
+        <input type="radio" name="mujer" id="mujer">
+        <label for="mujer">mujer</label>
+
+        <br><br>
+
+        <label for="correo">Correo:</label>
+        <input type="email" name="correo" id="correo">
+
+        <br><br>
+
+        <input type="checkbox" name="deseoinfo" id="deseoinfo">
+        <label for="deseoinfo">Deseo recibir información sobre novedades y ofertas</label>
+        <br><br>
+        <input type="checkbox" name="declaroleer" id="declaroleer" checked="checked">
+        <label for="declaroleer">Declaro haber leido y aceptar las condiciones generales del programa y la normativa sobre protección de datos</label>
+
+        <br><br>
+
+        <input type="submit" value="Enviar">
+    </form>
+<!-- Fallos
+    ...-->
+</body>
+</html>
