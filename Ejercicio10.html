@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejecrcicio 10</title>
+</head>
+<body>
+    <h1><u>Formularios 2</u></h1>
+    <h2>Enunciado</h2>
+    <p>Debes crear una página web que tenga el mismo aspecto que la siguiente imagen:</p>
+    <img src="img/formu2.png" alt="resultado" style="border: 5px solid black" ; >
+    <hr>
+    <h1>Formulario de registro</h1>
+    <form action="formulario.php" method="post">
+        <label for="nombre">Nombre:</label>
+        <input type="text" name="nombre" id="nombre">
+
+        <br><br>
+
+        <label for="apellidos">Apellidos:</label>
+        <input type="text" name="apellidos" id="apellidos">
+
+        <br><br>
+
+        <label for="sexo">Sexo:</label>
+        <input type="radio" name="hombre" id="hombre">
+        <label for="hombre">hombre</label>
+        <input type="radio" name="mujer" id="mujer">
+        <label for="mujer">mujer</label>
+
+        <br><br>
+
+        <label for="correo">Correo:</label>
+        <input type="email" name="correo" id="correo">
+
+        <br><br>
+
+        <label for="cotxe">Población:</label>
+        <select name="cotxe" id="cotxe">
+            <option value="alicante">Alicante</option>
+            <option value="agramunt">Agramunt</option>
+            <option value="santa-coloma">Santa Coloma</option>
+        </select>
+
+        <br><br>
+
+        <label for="descripcion">Descripción:</label>
+        <textarea name="descripcion" id="descripcion" cols="50" rows="6"></textarea>
+
+        <br><br>
+
+        <input type="checkbox" name="deseoinfo" id="deseoinfo">
+        <label for="deseoinfo">Deseo recibir información sobre novedades y ofertas</label>
+        <br><br>
+        <input type="checkbox" name="declaroleer" id="declaroleer">
+        <label for="declaroleer">Declaro haber leido y aceptar las condiciones generales del programa y la normativa sobre protección de datos</label>
+
+        <br><br>
+
+        <input type="submit" value="Enviar">
+    </form>
+    
+<!-- Fallos
+    ... -->
+</body>
+</html>
